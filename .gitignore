@@ -1,0 +1,3 @@
+.vagrant/
+config/sites.yml
+config/config.yml

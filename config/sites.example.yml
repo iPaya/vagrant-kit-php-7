@@ -1,0 +1,3 @@
+domains:
+  - serverName: "dev.local"
+    documentRoot: "/var/www/html"

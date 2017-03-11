@@ -1,0 +1,25 @@
+# Your personal GitHub token
+# Read more: https://github.com/blog/1509-personal-api-tokens
+# You can generate it here: https://github.com/settings/tokens
+github_token: <your-personal-github-token>
+
+# Guest OS timezone
+timezone: Asia/Shanghai
+
+# Virtual machine hostname
+hostname: ipaya
+
+# Virtual machine name
+machine_name: ipaya
+
+# Virtual machine IP
+ip: 192.168.123.123
+
+# Virtual machine CPU cores number
+cpus: 1
+
+# Virtual machine RAM
+memory: 2048
+
+# Code path
+code_path: <your-code-path>
